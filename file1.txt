@@ -1,0 +1,2 @@
+hy all,
+this is first git learing...proc.
