@@ -1,2 +1,5 @@
 hy all,
 this is first git learing...proc.
+
+adding  2nd commit
+to see and pract.
